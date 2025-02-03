@@ -1,0 +1,21 @@
+//CoDeSys Mapping Export V1.2
+//Mapped variable;//Parameter name @ counter in device;//Unit;//Description;//IEC address;//Device name;
+//Important: change only first, third or fourth column in Excel or add variable name before first ;
+;ReadInput8Bit : _430;;;%IB2;_430
+RIO_DI1;Bit0;;;%IX2.0;_430
+RIO_DI2;Bit1;;;%IX2.1;_430
+RIO_DI3;Bit2;;;%IX2.2;_430
+RIO_DI4;Bit3;;;%IX2.3;_430
+RIO_DI5;Bit4;;;%IX2.4;_430
+RIO_DI6;Bit5;;;%IX2.5;_430
+RIO_DI7;Bit6;;;%IX2.6;_430
+RIO_DI8;Bit7;;;%IX2.7;_430
+;WriteOutput8Bit : _530;;;%QB1;_530
+RIO_DO1;Bit0;;;%QX1.0;_530
+RIO_DO2;Bit1;;;%QX1.1;_530
+RIO_DO3;Bit2;;;%QX1.2;_530
+RIO_DO4;Bit3;;;%QX1.3;_530
+RIO_DO5;Bit4;;;%QX1.4;_530
+RIO_DO6;Bit5;;;%QX1.5;_530
+RIO_DO7;Bit6;;;%QX1.6;_530
+RIO_DO8;Bit7;;;%QX1.7;_530
